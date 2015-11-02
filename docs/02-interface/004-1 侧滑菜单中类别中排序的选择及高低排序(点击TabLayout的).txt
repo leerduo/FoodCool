@@ -1,0 +1,300 @@
+
+
+侧滑菜单中类别中排序的选择及高低排序
+类别内分栏排序：
+        http://food.boohee.com/fb/v1/foods?kind=group&value=1&order_by=3&page=1&order_asc=0
+        Order_by：
+        1.常见   ordec_asc:0 从高到低排序
+        2.热量   ordec_asc:1 从低到高排序
+        3.蛋白质 ordec_asc:0 从高到低排序
+        4.脂肪   ordec_asc:1 从低到高排序
+
+        Value 是从6侧滑栏类别中取的每一项的id
+
+
+{
+    "page": 1,
+    "total_pages": 649,
+    "foods": [
+        {
+            "id": 29280,
+            "code": "pastaZARAchuleyidalimian_chang",
+            "name": "pastaZARA厨乐意大利面（长条型）",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2011/7/17/840819_1310877637mid.jpg",
+            "is_liquid": false,
+            "health_light": 2,
+            "weight": "100",
+            "calory": "386",
+            "fat": "6.4",
+            "protein": "8.2",
+            "fiber_dietary": "0.3",
+            "carbohydrate": "73.8"
+        },
+        {
+            "id": 79152,
+            "code": "balibeitianputaogantusimianbao",
+            "name": "巴黎贝甜葡萄干吐司面包",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2014/5/4/3830091_1399163456mid.jpg",
+            "is_liquid": false,
+            "health_light": 3,
+            "weight": "100",
+            "calory": "300",
+            "fat": "1.9",
+            "protein": "9.4",
+            "fiber_dietary": "0.0",
+            "carbohydrate": "60.4"
+        },
+        {
+            "id": 79232,
+            "code": "GardenhiofhiLifeyoujidanbaifen",
+            "name": "Garden of Life有机蛋白粉（原味）",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2014/5/4/395742_1399178550mid.jpg",
+            "is_liquid": false,
+            "health_light": 2,
+            "weight": "100",
+            "calory": "364",
+            "fat": "4.6",
+            "protein": "81.8",
+            "fiber_dietary": "13.6",
+            "carbohydrate": "13.6"
+        },
+        {
+            "id": 36550,
+            "code": "chengliyuanhimianjin",
+            "name": "诚利源 面筋",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2012/10/14/452803_1350226170mid.jpg",
+            "is_liquid": false,
+            "health_light": 1,
+            "weight": "100",
+            "calory": "423",
+            "fat": "0.3",
+            "protein": "70.5",
+            "fiber_dietary": "2.7",
+            "carbohydrate": "36.9"
+        },
+        {
+            "id": 51068,
+            "code": "biyongweihigaodanbaifuhedaican4",
+            "name": "碧永维 高蛋白复合代餐粉（鸡肉味）",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2013/6/24/452803_1372007476mid.jpg",
+            "is_liquid": false,
+            "health_light": 2,
+            "weight": "100",
+            "calory": "366",
+            "fat": "6.0",
+            "protein": "67.2",
+            "fiber_dietary": "3.8",
+            "carbohydrate": "8.0"
+        },
+        {
+            "id": 55453,
+            "code": "MultanhiFigur-Formerdaicanfen",
+            "name": "Multan Figur-Former代餐粉",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2013/8/16/2271840_1376600967mid.png",
+            "is_liquid": false,
+            "health_light": 2,
+            "weight": "100",
+            "calory": "351",
+            "fat": "3.9",
+            "protein": "66.1",
+            "fiber_dietary": "9.0",
+            "carbohydrate": "7.2"
+        },
+        {
+            "id": 51066,
+            "code": "biyongweihigaodanbaifuhedaican2",
+            "name": "碧永维 高蛋白复合代餐粉（巧克力味）",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2013/6/24/452803_1372007565mid.jpg",
+            "is_liquid": false,
+            "health_light": 2,
+            "weight": "100",
+            "calory": "376",
+            "fat": "7.7",
+            "protein": "65.0",
+            "fiber_dietary": "6.7",
+            "carbohydrate": "7.7"
+        },
+        {
+            "id": 51065,
+            "code": "biyongweihigaodanbaifuhedaican",
+            "name": "碧永维 高蛋白复合代餐粉（香草味）",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2013/6/24/452803_1372007604mid.jpg",
+            "is_liquid": false,
+            "health_light": 2,
+            "weight": "100",
+            "calory": "382",
+            "fat": "6.7",
+            "protein": "63.2",
+            "fiber_dietary": "4.5",
+            "carbohydrate": "14.2"
+        },
+        {
+            "id": 51067,
+            "code": "biyongweihigaodanbaifuhedaican3",
+            "name": "碧永维 高蛋白复合代餐粉（咖啡拿铁味）",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2013/6/24/452803_1372007530mid.jpg",
+            "is_liquid": false,
+            "health_light": 2,
+            "weight": "100",
+            "calory": "367",
+            "fat": "6.8",
+            "protein": "62.5",
+            "fiber_dietary": "5.9",
+            "carbohydrate": "10.2"
+        },
+        {
+            "id": 51069,
+            "code": "biyongweihigaodanbaifuhedaican5",
+            "name": "碧永维 高蛋白复合代餐粉（草莓味）",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2013/6/24/452803_1372007426mid.jpg",
+            "is_liquid": false,
+            "health_light": 2,
+            "weight": "100",
+            "calory": "365",
+            "fat": "5.5",
+            "protein": "62.0",
+            "fiber_dietary": "9.2",
+            "carbohydrate": "11.5"
+        },
+        {
+            "id": 79485,
+            "code": "shandefangquanyingyangsu",
+            "name": "膳德坊全营养素",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2014/5/7/5124351_1399458796mid.jpg",
+            "is_liquid": false,
+            "health_light": 1,
+            "weight": "100",
+            "calory": "382",
+            "fat": "2.2",
+            "protein": "60.7",
+            "fiber_dietary": "0.0",
+            "carbohydrate": "58.6"
+        },
+        {
+            "id": 67999,
+            "code": "FarinahiBellahifaruinahiquanma",
+            "name": "Farina Bella 法瑞纳 全麦玛芬预拌粉",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2013/12/29/452803_1388284380mid.jpg",
+            "is_liquid": false,
+            "health_light": 3,
+            "weight": "100",
+            "calory": "267",
+            "fat": "25.5",
+            "protein": "56.6",
+            "fiber_dietary": "0.0",
+            "carbohydrate": "31.9"
+        },
+        {
+            "id": 46483,
+            "code": "youluohijianfeipeifangyingyang",
+            "name": "优洛 减肥配方营养代餐粉（可可味）",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2013/4/15/452803_1365999747mid.jpg",
+            "is_liquid": false,
+            "health_light": 1,
+            "weight": "100",
+            "calory": "299",
+            "fat": "2.0",
+            "protein": "55.0",
+            "fiber_dietary": "16.0",
+            "carbohydrate": "11.0"
+        },
+        {
+            "id": 33072,
+            "code": "meiguoyouluojianfeipeifangying",
+            "name": "美国优洛减肥配方营养代餐粉（香草味）",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2012/4/1/147970_1333250789mid.jpg",
+            "is_liquid": false,
+            "health_light": 1,
+            "weight": "100",
+            "calory": "299",
+            "fat": "2.0",
+            "protein": "55.0",
+            "fiber_dietary": "16.0",
+            "carbohydrate": "11.0"
+        },
+        {
+            "id": 84671,
+            "code": "feisuhidaicanfen_hongdouwei",
+            "name": "菲素 代餐粉（红豆味）",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2014/7/2/452803_1404289229mid.jpg",
+            "is_liquid": false,
+            "health_light": 1,
+            "weight": "100",
+            "calory": "295",
+            "fat": "1.0",
+            "protein": "54.0",
+            "fiber_dietary": "22.0",
+            "carbohydrate": "6.0"
+        },
+        {
+            "id": 84670,
+            "code": "feisuhidaicanfen_kekewei",
+            "name": "菲素 代餐粉（可可味）",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2014/7/2/452803_1404289256mid.jpg",
+            "is_liquid": false,
+            "health_light": 1,
+            "weight": "100",
+            "calory": "295",
+            "fat": "1.0",
+            "protein": "54.0",
+            "fiber_dietary": "22.0",
+            "carbohydrate": "6.0"
+        },
+        {
+            "id": 84669,
+            "code": "feisuhidaicanfen_maixiangwei",
+            "name": "菲素 代餐粉（麦香味）",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2014/7/2/452803_1404289272mid.jpg",
+            "is_liquid": false,
+            "health_light": 1,
+            "weight": "100",
+            "calory": "295",
+            "fat": "1.0",
+            "protein": "54.0",
+            "fiber_dietary": "22.0",
+            "carbohydrate": "6.0"
+        },
+        {
+            "id": 84668,
+            "code": "feisuhidaicanfen_yenaiwei",
+            "name": "菲素 代餐粉（椰奶味）",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2014/7/2/452803_1404289286mid.jpg",
+            "is_liquid": false,
+            "health_light": 1,
+            "weight": "100",
+            "calory": "295",
+            "fat": "1.0",
+            "protein": "54.0",
+            "fiber_dietary": "22.0",
+            "carbohydrate": "6.0"
+        },
+        {
+            "id": 46796,
+            "code": "AsahichaoriSlimupSlimdaicannai",
+            "name": "Asahi朝日SlimupSlim代餐奶昔（拿铁味）",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2013/4/19/220122_1366352662mid.jpg",
+            "is_liquid": false,
+            "health_light": 1,
+            "weight": "100",
+            "calory": "342",
+            "fat": "2.7",
+            "protein": "46.7",
+            "fiber_dietary": "16.7",
+            "carbohydrate": "41.1"
+        },
+        {
+            "id": 75663,
+            "code": "liaobudehifuzhouyumian",
+            "name": "了不得 福州鱼面",
+            "thumb_image_url": "http://s.boohee.cn/house/upload_food/2014/3/19/452803_1395205337mid.jpg",
+            "is_liquid": false,
+            "health_light": 1,
+            "weight": "100",
+            "calory": "250",
+            "fat": "0.0",
+            "protein": "46.4",
+            "fiber_dietary": "0.0",
+            "carbohydrate": "17.9"
+        }
+    ]
+}

@@ -1,0 +1,249 @@
+
+    策划栏点击烹饪方式GridView中的数据
+    http://food.boohee.com/fb/v1/categories?kind=cooking
+
+{
+    "kind": "cooking",
+    "categories": [
+        {
+            "id": 1,
+            "name": "扒",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 2,
+            "name": "拔丝",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 3,
+            "name": "炒",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 4,
+            "name": "炖",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 5,
+            "name": "干煸",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 6,
+            "name": "锅塌",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 7,
+            "name": "红烧",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 8,
+            "name": "烩",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 9,
+            "name": "火锅",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 10,
+            "name": "煎",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 11,
+            "name": "酱",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 12,
+            "name": "焦溜",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 13,
+            "name": "烤",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 14,
+            "name": "凉拌",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 15,
+            "name": "溜炒",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 16,
+            "name": "卤",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 17,
+            "name": "焖",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 18,
+            "name": "其他",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 19,
+            "name": "炝",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 20,
+            "name": "清蒸",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 21,
+            "name": "砂锅、煮",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 22,
+            "name": "烧",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 23,
+            "name": "糖溜、糖醋",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 24,
+            "name": "煨、汤",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 25,
+            "name": "熏、干",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 26,
+            "name": "腌腊",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 27,
+            "name": "油爆",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 28,
+            "name": "炸",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 29,
+            "name": "蒸、煨",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 30,
+            "name": "灼",
+            "image_url": null,
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        }
+    ]
+}

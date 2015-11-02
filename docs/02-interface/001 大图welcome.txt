@@ -1,0 +1,73 @@
+
+1.主页面上面的图片
+
+{
+    "banner": {
+        "food_name": "酿豆腐",
+        "food_code": "niangdoufu",
+        "food_id": 10281,
+        "image_url": "http://up.boohee.cn/house/u/food_library/home_cover/30_stuffed_tofu.jpg"
+    },
+    "others": [
+        {
+            "food_name": "松鼠鳜鱼",
+            "food_code": "songshuguiyu",
+            "food_id": 14973,
+            "image_url": "http://up.boohee.cn/house/u/food_library/home_cover/27_mandarin_fish.jpg"
+        },
+        {
+            "food_name": "虾仁豆腐",
+            "food_code": "xiarendoufu",
+            "food_id": 13186,
+            "image_url": "http://up.boohee.cn/house/u/food_library/home_cover/26_shrimp_and_tofu.jpg"
+        },
+        {
+            "food_name": "熏素鸭",
+            "food_code": "xunsuya",
+            "food_id": 4127,
+            "image_url": "http://up.boohee.cn/house/u/food_library/home_cover/25_smoked_dried_tofu.jpg"
+        },
+        {
+            "food_name": "橘子",
+            "food_code": "jieganzi",
+            "food_id": 587,
+            "image_url": "http://up.boohee.cn/house/u/food_library/home_cover/24_tangerine.jpg"
+        },
+        {
+            "food_name": "罐焖牛肉",
+            "food_code": "guanmenniurou",
+            "food_id": 3684,
+            "image_url": "http://up.boohee.cn/house/u/food_library/home_cover/23_pot_stewed_beef.jpg"
+        },
+        {
+            "food_name": "小鸡炖蘑菇",
+            "food_code": "xiaojidunyuanmo",
+            "food_id": 3792,
+            "image_url": "http://up.boohee.cn/house/u/food_library/home_cover/22_chicken_mushroom.jpg"
+        },
+        {
+            "food_name": "奶油玉米浓汤",
+            "food_code": "naiyouyuminongtang",
+            "food_id": 17112,
+            "image_url": "http://up.boohee.cn/house/u/food_library/home_cover/21_corn_soup.jpg"
+        },
+        {
+            "food_name": "越南春卷",
+            "food_code": "yuenanchunjuan",
+            "food_id": 22348,
+            "image_url": "http://up.boohee.cn/house/u/food_library/home_cover/19_china_roll.jpg"
+        },
+        {
+            "food_name": "鳄梨",
+            "food_code": "eli",
+            "food_id": 514,
+            "image_url": "http://up.boohee.cn/house/u/food_library/home_cover/18_avocado.jpg"
+        },
+        {
+            "food_name": "柠檬",
+            "food_code": "ningmeng",
+            "food_id": 597,
+            "image_url": "http://up.boohee.cn/house/u/food_library/home_cover/17_lemon.jpg"
+        }
+    ]
+}

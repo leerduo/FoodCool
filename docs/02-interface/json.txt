@@ -1,0 +1,68 @@
+1.首页请输入食物名称下方的接口：
+        http://food.boohee.com/fb/v1/topics
+
+2.首页上方大图接口：
+        http://food.boohee.com/fb/v1/welcome
+
+  2.1 大图点击进入的详情页：
+        http://food.boohee.com/fb/v1/foods/niangdoufu
+        “foods/”后的内容是从2中的food_code获得
+
+  2.2 详情页中的原料与做法：
+        http://food.boohee.com/fb/v1/foods/niangdoufu/recipe
+        如果2。1中的recipe为true，则有原料和做法，否则没有
+
+3.请输入食物名称：
+        http://food.boohee.com/fb/v1/keywords
+        点击进入后能显示最近搜过
+
+4.首页最下方中间图片：
+        http://food.boohee.com/fb/v1/topics/44
+
+5.首页最下面右边图片点击详情：
+        http://food.boohee.com/fb/v1/topics/43
+
+6.侧滑栏类别：
+        http://food.boohee.com/fb/v1/categories?kind=group
+        其中6,7,8,9等各个大类别的第一项kind属性是用于分栏排序中的kind
+
+  6.1类别内分栏排序：
+        http://food.boohee.com/fb/v1/foods?kind=group&value=1&order_by=3&page=1&order_asc=0
+        Order_by：
+        1.常见   ordec_asc:0 从高到低排序
+        2.热量   ordec_asc:1 从低到高排序
+        3.蛋白质 ordec_asc:0 从高到低排序
+        4.脂肪   ordec_asc:1 从低到高排序
+
+Value 是从6侧滑栏类别中取的每一项的id
+
+  6.2.类别内分栏的下拉列表框分栏：
+        http://food.boohee.com/fb/v1/foods?kind=group&value=1&sub_value=13&order_by=3&page=1&order_asc=0
+        其中，sub_value是从6.侧滑栏类别中获取sub_categories
+
+7.侧滑栏烹饪方式：
+http://food.boohee.com/fb/v1/categories?kind=cooking
+
+  7.1烹饪方式内分栏排序：
+http://food.boohee.com/fb/v1/foods?kind=cooking&value=1&order_by=2&page=1&order_asc=1
+Order_by 和 order_asc同6.1
+
+8.侧滑栏品牌：
+http://food.boohee.com/fb/v1/categories?kind=brand
+
+  8.1品牌内分栏排序：
+        http://food.boohee.com/fb/v1/foods?kind=brand&value=20&order_by=1&page=1&order_asc=0
+        同上
+
+9.侧滑栏连锁餐饮：
+        http://food.boohee.com/fb/v1/categories?kind=restaurant
+
+  9.1连锁餐饮内分栏排序：
+        http://food.boohee.com/fb/v1/foods?kind=restaurant&value=1&order_by=1&page=1&order_asc=0
+        同上
+
+10.侧滑栏季节：
+        http://food.boohee.com/fb/v1/categories?kind=season
+
+      10.1季节内分栏排序：
+    http://food.boohee.com/fb/v1/foods?kind=season&value=1&order_by=1&page=1&order_asc=0

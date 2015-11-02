@@ -1,0 +1,59 @@
+
+主界面点击进入详情页
+ http://food.boohee.com/fb/v1/foods/niangdoufu
+        “foods/”后的内容是从2中的food_code获得
+
+
+
+{
+    "id": 10281,
+    "code": "niangdoufu",
+    "name": "酿豆腐",
+    "calory": "130",
+    "weight": "100",
+    "health_light": 2,
+    "is_liquid": false,
+    "thumb_image_url": "http://s.boohee.cn/house/food_mid/mid_photo_20153213204410281.jpg",
+    "large_image_url": "http://s.boohee.cn/house/food_big/big_photo20153213204410281.jpg",
+    "uploader": "",
+    "appraise": "蒸、煨\n此类菜肴通常较为清淡热量较低，减肥期间只需除去明显的脂肪、油脂即可食用。\n豆腐(南)\n蛋白质含量较高，豆腐中大豆异黄酮对于女性调理内分泌也有帮助，推荐减肥期间作为蛋白质的来源食用。\n猪肉(肥瘦)\n肥瘦相间的猪肉脂肪，蛋白质含量及热量很高，减肥时应严格控制量。",
+    "protein": "5.7",
+    "fat": "10.8",
+    "fiber_dietary": "0.3",
+    "carbohydrate": "3.0",
+    "compare": {},
+    "recipe": true,
+    "units": [],
+    "ingredient": {
+        "calory": "130",
+        "protein": "5.7",
+        "fat": "10.8",
+        "carbohydrate": "3.0",
+        "fiber_dietary": "0.3",
+        "vitamin_a": "",
+        "vitamin_c": "",
+        "vitamin_e": "",
+        "carotene": "",
+        "thiamine": "",
+        "lactoflavin": "",
+        "niacin": "",
+        "cholesterol": "",
+        "magnesium": "",
+        "calcium": "",
+        "iron": "",
+        "zinc": "",
+        "copper": "",
+        "manganese": "",
+        "kalium": "",
+        "phosphor": "",
+        "natrium": "",
+        "selenium": ""
+    },
+    "lights": {
+        "calory": "低热量",
+        "protein": "",
+        "carbohydrate": "",
+        "fat": "",
+        "fiber_dietary": ""
+    }
+}

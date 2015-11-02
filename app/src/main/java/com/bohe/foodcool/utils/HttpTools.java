@@ -3,6 +3,7 @@ package com.bohe.foodcool.utils;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
@@ -80,6 +81,45 @@ public final  class HttpTools {
                 StreamUtil.close(conn);
             }
         }
+        return ret;
+    }
+
+    public static byte[] post(String url ,byte[] data){
+
+        byte[] ret = null;
+
+        if (url != null) {
+            HttpURLConnection conn = null;
+            InputStream inputStream = null;
+            try{
+
+                URL u = new URL(url);
+                conn = (HttpURLConnection) u.openConnection();
+
+                conn.setRequestMethod("POST");
+                conn.setDoOutput(true);
+                conn.connect();
+
+                if (data != null) {
+                    OutputStream out = conn.getOutputStream();
+                    out.write(data);
+                }
+
+                int responseCode = conn.getResponseCode();
+
+                if (responseCode == 200) {
+                    inputStream = conn.getInputStream();
+                    ret = StreamUtil.readStream(inputStream);
+                }
+
+            }catch (Exception e){
+                e.printStackTrace();
+            }finally {
+                StreamUtil.close(inputStream);
+                StreamUtil.close(conn);
+            }
+        }
+
         return ret;
     }
 

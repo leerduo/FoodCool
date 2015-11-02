@@ -1,0 +1,20 @@
+
+
+大家都在搜
+    http://food.boohee.com/fb/v1/keywords
+
+{
+    "keyword_count": 10,
+    "keywords": [
+        "苹果",
+        "香蕉",
+        "馒头",
+        "红薯",
+        "酸奶",
+        "米饭",
+        "玉米",
+        "鸡蛋",
+        "豆浆",
+        "草莓"
+    ]
+}

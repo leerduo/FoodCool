@@ -1,0 +1,57 @@
+
+策划栏连锁餐饮的数据
+http://food.boohee.com/fb/v1/categories?kind=restaurant
+
+{
+    "kind": "restaurant",
+    "categories": [
+        {
+            "id": 1,
+            "name": "肯德基",
+            "image_url": "http://up.boohee.cn/house/u/food_library/chain_restaurant/1.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 2,
+            "name": "麦当劳",
+            "image_url": "http://up.boohee.cn/house/u/food_library/chain_restaurant/2.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 3,
+            "name": "星巴克",
+            "image_url": "http://up.boohee.cn/house/u/food_library/chain_restaurant/3.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 4,
+            "name": "吉野家",
+            "image_url": "http://up.boohee.cn/house/u/food_library/chain_restaurant/4.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 5,
+            "name": "德克士",
+            "image_url": "http://up.boohee.cn/house/u/food_library/chain_restaurant/5.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 6,
+            "name": "大娘水饺",
+            "image_url": "http://up.boohee.cn/house/u/food_library/chain_restaurant/6.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        }
+    ]
+}

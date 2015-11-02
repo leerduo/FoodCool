@@ -1,0 +1,64 @@
+
+    主界面可滑动控件点击进入主题的菜品介绍
+     http://food.boohee.com/fb/v1/topics/44
+
+{
+    "topic": {
+        "id": 44,
+        "title": "暖心西式浓汤",
+        "sub_title": "一盅浓汤慰己，怎畏秋意渐深",
+        "page_count": 6,
+        "image_url": "http://up.boohee.cn/house/u/food_library/topic_cover/vol_40_v2.png",
+        "big_image_url": "http://up.boohee.cn/house/u/food_library/topic_cover/vol_40_fullscreen_v2.jpg",
+        "pages": [
+            {
+                "food_name": "西式浓汤，鲜香浓郁妙不可言",
+                "food_code": "fanqienongtang",
+                "food_id": 18341,
+                "description": "西式浓汤，味道醇厚浓香，但很多人不敢选择它的原因是热量太高。确实，对于传统做法的西式浓汤来说，热量确实比我们中式的汤羹要热量高。但其实把西式浓汤改良下，就可以降低热量，美味依旧。\r\n\r\n在寒冷的秋冬季，一碗浓郁香醇的浓汤，是不是给萧瑟的季节增加了很多温暖感觉呢，也让归家途中的人们多了几分积极是不是？",
+                "image_url": "http://up.boohee.cn/house/u/food_library/topic_image/220_tomato_soup.jpg",
+                "page_url": "http://food.boohee.com/fb/v1/topic_pages/264.html"
+            },
+            {
+                "food_name": "奶油蘑菇汤",
+                "food_code": "naiyoumogutang",
+                "food_id": 19550,
+                "description": "奶油蘑菇汤的奶香味是由黄油和淡奶油带来的，而黄油的热量是比较高的，可以以一些牛奶和生粉、蛋清来替代，不仅可以达到浓稠香郁的口感，热量也低了许多。\r\n\r\n还可以根据自己的喜好DIY，比如加一些洋葱碎，玉米粒等等，早餐里搭配全麦面包，简直闻一闻就要醉了。",
+                "image_url": "http://up.boohee.cn/house/u/food_library/topic_image/221_mushroom_soup.jpg",
+                "page_url": "http://food.boohee.com/fb/v1/topic_pages/265.html"
+            },
+            {
+                "food_name": "甜椒南瓜汤",
+                "food_code": "tianjiaonanguatang",
+                "food_id": 5113,
+                "description": "甜椒南瓜汤是是富有杭州地方特色的汉族名点。味道鲜美，口感润滑，热量也比较低。甜椒富含VC，是秋季的应季蔬菜，口感厚实脆甜，和软糯的南瓜相得益彰。",
+                "image_url": "http://up.boohee.cn/house/u/food_library/topic_image/222_pumpkin_soup.jpg",
+                "page_url": "http://food.boohee.com/fb/v1/topic_pages/266.html"
+            },
+            {
+                "food_name": "玉米浓汤",
+                "food_code": "naiyouyuminongtang",
+                "food_id": 17112,
+                "description": "玉米是高纤维又低卡的粗粮，千变万化怎么烹调都很美味。这道玉米浓汤也是西式浓汤中常见的家常必备。玉米浓汤想要粘稠的口感，除了加入奶油或者牛奶外，土豆也是不错的选择，一道土豆玉米浓汤，就已经将低卡晚餐所需的碳水补足了哦~",
+                "image_url": "http://up.boohee.cn/house/u/food_library/topic_image/223_corn_soup.jpg",
+                "page_url": "http://food.boohee.com/fb/v1/topic_pages/268.html"
+            },
+            {
+                "food_name": "意式蔬菜浓汤",
+                "food_code": "yishishucaitang",
+                "food_id": 8572,
+                "description": "这道浓汤的好处就在于，想放什么放什么，家里有的一些常见蔬菜，都可以随意搭配，比如土豆、洋葱、圆白菜、胡萝卜、番茄、西芹等等，实在是消灭家中剩余蔬菜的好办法，你get到了么？\r\n\r\n记得容易煮烂的蔬菜要后放哦，比如土豆、番茄、洋葱等。培根或者火腿也是要稍微迟一些再加入的。",
+                "image_url": "http://up.boohee.cn/house/u/food_library/topic_image/225_broth_minestrone.jpg",
+                "page_url": "http://food.boohee.com/fb/v1/topic_pages/269.html"
+            },
+            {
+                "food_name": "罗宋汤",
+                "food_code": "subotang_dainiurou",
+                "food_id": 19972,
+                "description": "其实罗宋汤，也可以理解为加了牛肉和番茄的蔬菜浓汤，是发源于乌克兰的一种浓菜汤。成汤以后冷热兼可享用，在东欧或中欧很受欢迎。在这些地区，罗宋汤大多以甜菜为主料，常加入马铃薯、红萝卜、菠菜和牛肉块、奶油等熬煮，因此呈紫红色。\r\n\r\n罗宋汤在上海也有被称之为红菜汤的，已经经过国人的口味进行了改良。不过无论如何，番茄、牛肉、土豆、洋葱还是不可或缺的几大要素。满满一锅，秋冬季端上桌来，是温暖的家的感觉。",
+                "image_url": "http://up.boohee.cn/house/u/food_library/topic_image/224_borscht.jpg",
+                "page_url": "http://food.boohee.com/fb/v1/topic_pages/271.html"
+            }
+        ]
+    }
+}

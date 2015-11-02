@@ -1,0 +1,121 @@
+详情页中的原料与做法：
+                http://food.boohee.com/fb/v1/foods/niangdoufu/recipe
+                如果2。1中的recipe为true，则有原料和做法，否则没有
+
+{
+    "id": 197,
+    "code": "niangdoufu",
+    "name": "酿豆腐",
+    "image_url": "http://s.boohee.cn/house/food_big/big_photo20153213204410281.jpg",
+    "tips": "注意轻拿轻放，尤其是翻面煎的时候，一定要用铲子将底部托住、压住表面再慢慢翻过来，防止肉糜倒出。",
+    "condiments": [
+        {
+            "name": "南豆腐",
+            "amount": "250g"
+        },
+        {
+            "name": "五花肉糜",
+            "amount": "150g"
+        },
+        {
+            "name": "鱼肉泥",
+            "amount": "100g"
+        },
+        {
+            "name": "虾米",
+            "amount": "50g"
+        },
+        {
+            "name": "葱姜蒜末",
+            "amount": null
+        },
+        {
+            "name": "红椒碎末",
+            "amount": null
+        },
+        {
+            "name": "鸡精",
+            "amount": null
+        },
+        {
+            "name": "生抽",
+            "amount": null
+        },
+        {
+            "name": "葱段",
+            "amount": null
+        },
+        {
+            "name": "胡椒粉",
+            "amount": null
+        },
+        {
+            "name": "盐",
+            "amount": null
+        },
+        {
+            "name": "白糖",
+            "amount": null
+        },
+        {
+            "name": "料酒",
+            "amount": null
+        },
+        {
+            "name": "油",
+            "amount": null
+        }
+    ],
+    "steps": [
+        {
+            "position": 1,
+            "desc": "虾米用清水浸泡10分钟，反复抓捏冲洗后，将水滤干。五花肉糜和去骨的鱼肉泥用刀剁细。",
+            "image_url": "http://i1.douguo.net/upload/stepimage/4/9/b/200_1541551.jpg"
+        },
+        {
+            "position": 2,
+            "desc": "虾米切碎末，与肉糜、鱼肉泥混合均匀，加入适量盐、白糖、鸡精、葱花、料酒、姜末、白胡椒粉以及10克淀粉一起，用筷子朝同一方向快速搅拌至起胶状（大约5-6分钟）。",
+            "image_url": "http://i1.douguo.net/upload/stepimage/c/6/2/200_1541552.jpg"
+        },
+        {
+            "position": 3,
+            "desc": "将南豆腐切成四方块，在每块豆腐中间切出一个小孔；并镶入肉糜。肉糜一定要搅到非常粘稠，才不会从豆腐里面溜出来。",
+            "image_url": "http://i1.douguo.net/upload/stepimage/0/3/c/200_1541553.jpg"
+        },
+        {
+            "position": 4,
+            "desc": "锅中倒入清水，上蒸屉，水烧开后放入用盘子盛好的豆腐，加盖大火蒸10分钟。",
+            "image_url": "http://i1.douguo.net/upload/stepimage/2/3/9/200_1541554.jpg"
+        },
+        {
+            "position": 5,
+            "desc": "取出滗出汤汁，汤汁留着备用。",
+            "image_url": "http://i1.douguo.net/upload/stepimage/6/5/0/200_1541555.jpg"
+        },
+        {
+            "position": 6,
+            "desc": "锅里倒入较多的油，大火烧至6成热时，慢慢放入蒸好的豆腐。改中火煎豆腐，微微晃动炒锅避免豆腐粘锅，也让豆腐受热更加均匀；再用铲子舀些油浇在豆腐表面，让豆腐两面都煎出金黄色，捞出备用。",
+            "image_url": "http://i1.douguo.net/upload/stepimage/7/e/e/200_1541556.jpg"
+        },
+        {
+            "position": 7,
+            "desc": "锅中留少许底油，放入剩余的葱姜蒜末煸香，倒入蒸豆腐的汤汁，再加入一些清水或者高汤一起煮沸。",
+            "image_url": "http://i1.douguo.net/upload/stepimage/4/4/2/200_1541557.jpg"
+        },
+        {
+            "position": 8,
+            "desc": "轻轻地一个一个放入煎好的豆腐，撒入红椒碎和胡萝卜细丁，放少许盐、生抽、白糖、鸡精调匀，煮至入味。",
+            "image_url": "http://i1.douguo.net/upload/stepimage/1/8/4/200_1541558.jpg"
+        },
+        {
+            "position": 9,
+            "desc": "盖上锅盖，小火让汤汁充分吸收、煮至入味，另外取一个小碗，淀粉加少量清水和番茄酱调匀，倒入豆腐中推匀，勾薄芡即可出锅。",
+            "image_url": "http://i1.douguo.net/upload/stepimage/4/b/c/200_1541559.jpg"
+        },
+        {
+            "position": 10,
+            "desc": "酿豆腐，是客家人的经典菜品！让吃到嘴里的鲜肉滑溜无比，而裹住肉的豆腐更是吸饱了香浓的酱汁，味道超级赞。",
+            "image_url": "http://i1.douguo.net/upload/stepimage/d/9/e/200_15415510.jpg"
+        }
+    ]
+}

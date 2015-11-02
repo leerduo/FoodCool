@@ -1,0 +1,114 @@
+
+ 策划栏中点击品牌的GridView中的数据
+http://food.boohee.com/fb/v1/categories?kind=brand
+
+
+{
+    "kind": "brand",
+    "categories": [
+        {
+            "id": 20,
+            "name": "薄荷",
+            "image_url": "http://up.boohee.cn/house/u/food_library/brand/11_boohee.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 1,
+            "name": "鲜得味",
+            "image_url": "http://up.boohee.cn/house/u/food_library/brand/1.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 2,
+            "name": "雀巢",
+            "image_url": "http://up.boohee.cn/house/u/food_library/brand/2.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 3,
+            "name": "光明",
+            "image_url": "http://up.boohee.cn/house/u/food_library/brand/3.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 4,
+            "name": "伊利",
+            "image_url": "http://up.boohee.cn/house/u/food_library/brand/4.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 5,
+            "name": "蒙牛",
+            "image_url": "http://up.boohee.cn/house/u/food_library/brand/5.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 6,
+            "name": "三全",
+            "image_url": "http://up.boohee.cn/house/u/food_library/brand/6.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 7,
+            "name": "永和",
+            "image_url": "http://up.boohee.cn/house/u/food_library/brand/7.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 8,
+            "name": "南方",
+            "image_url": "http://up.boohee.cn/house/u/food_library/brand/8.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 9,
+            "name": "康师傅",
+            "image_url": "http://up.boohee.cn/house/u/food_library/brand/9.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 10,
+            "name": "思念",
+            "image_url": "http://up.boohee.cn/house/u/food_library/brand/10.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 21,
+            "name": "新农哥",
+            "image_url": "http://up.boohee.cn/house/u/food_library/brand/12.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        },
+        {
+            "id": 23,
+            "name": "旺旺",
+            "image_url": "http://up.boohee.cn/house/u/food_library/brand/14_wangwang.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": null
+        }
+    ]
+}

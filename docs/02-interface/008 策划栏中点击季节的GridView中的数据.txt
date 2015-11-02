@@ -1,0 +1,41 @@
+
+策划栏季节的点击
+http://food.boohee.com/fb/v1/categories?kind=season
+
+{
+    "kind": "season",
+    "categories": [
+        {
+            "id": 1,
+            "name": "春季",
+            "image_url": "http://up.boohee.cn/house/u/food_library/season/spring.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": "产于 3-5 月的食物"
+        },
+        {
+            "id": 2,
+            "name": "夏季",
+            "image_url": "http://up.boohee.cn/house/u/food_library/season/summer.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": "产于 6-8 月的食物"
+        },
+        {
+            "id": 3,
+            "name": "秋季",
+            "image_url": "http://up.boohee.cn/house/u/food_library/season/autumn.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": "产于 9-11 月的食物"
+        },
+        {
+            "id": 4,
+            "name": "冬季",
+            "image_url": "http://up.boohee.cn/house/u/food_library/season/winter.png",
+            "sub_category_count": 0,
+            "sub_categories": [],
+            "description": "产于 12-2 月的食物"
+        }
+    ]
+}
