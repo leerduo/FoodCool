@@ -1,0 +1,48 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+
+# IntelliJ project files
+.idea/
+*.iml
+*.iprs
+*.iws
+
+# 名称附带/，代表文件夹
+out/
+bin/
+gen/
+local.properties
+
+# Android Studio
+build/
+.gradle
+
+# Eclipse project files
+.project
+.settings/
+.classpath
+
+# OS gen
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.bak
+*.temp
+*.tmp
+*.vpp~*
+*.*~
+~*.*
